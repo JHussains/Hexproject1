@@ -8,11 +8,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Created  <code>by/App.js</code> Javed Hussain
+          Created  <code> by </code> Javed Hussain
         </p>
         <a
           className="App-link"
-          href="https://urdu10.com"
+          href="https://getinfoline.com"
           target="_blank"
           rel="noopener noreferrer"
         >
