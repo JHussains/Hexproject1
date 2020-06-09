@@ -17,13 +17,13 @@ function App() {
         </a>
     <h1>Piaic Offering Best Following Courses</h1>
           <center>
-          <fieldset><legend><b><font color="#2d4560">Piaic Offering</font></b></legend>
-            <ul>
+          <fieldset><legend><b><font color="#10cc26">Piaic Offering</font></b></legend>
+            <ol>
             <li>Artifical Intelligence</li>
             <li>Cloud Native Computing</li>
             <li>Blockchain</li>
             <li>Internet of Things</li>
-           </ul>
+           </ol>
           </fieldset>
           <h4><font color="yellowgreen">Created by: Javed Hussain</font></h4>
           </center>
