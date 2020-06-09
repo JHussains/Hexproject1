@@ -23,7 +23,7 @@ function App() {
             <h3>Blockchain</h3>
             <h3>Internet of Things</h3>
           </fieldset>
-          <h4><font color"yellowgreen">Created by: Javed Hussain</font></h4>
+          <h4><font color="yellowgreen">Created by: Javed Hussain</font></h4>
           </center>
     </div>
   );
