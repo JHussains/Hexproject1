@@ -13,15 +13,17 @@ function App() {
             <a className="App-link"
           href="https://getinfoline.com"
           target="_blank"rel="noopener noreferrer">
-          Visit Our Website 
+          <h2>Visit Our Website</h2>
         </a>
     <h1>Piaic Offering Best Following Courses</h1>
           <center>
-          <fieldset><legend>Piaic Offering</legend>
-            <h3>Artifical Intelligence</h3>
-            <h3>Cloud Native Computing</h3>
-            <h3>Blockchain</h3>
-            <h3>Internet of Things</h3>
+          <fieldset><legend><b><font color="#2d4560">Piaic Offering</font></b></legend>
+            <ul>
+            <li>Artifical Intelligence</li>
+            <li>Cloud Native Computing</li>
+            <li>Blockchain</li>
+            <li>Internet of Things</li>
+           </ul>
           </fieldset>
           <h4><font color="yellowgreen">Created by: Javed Hussain</font></h4>
           </center>
